@@ -1,0 +1,6 @@
+export(simulate_fifo)
+export(simulate_lru)
+export(simulate_optimal)
+export(fifo_info)
+export(lru_info)
+export(optimal_info)

@@ -1,0 +1,10 @@
+Package: PageReplacement
+Title: Page Replacement
+Description: This package helps in simulating page replacement algorithms, used in OS
+Version: 1.0.0
+Authors@R: person("Vignesh", "Naik", email = "720co.main@gmail.com", role = c("aut", "cre", "cph"))
+License: MIT + file LICENSE
+Video: https://youtu.be/sKWvNVue1GY
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
