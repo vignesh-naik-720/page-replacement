@@ -5,6 +5,7 @@ This repository contains the `page-replacement` R package, which simulates page 
 ## Features
 
 - Simulate popular page replacement algorithms:
+  - **FIFO (First-In-First-Out)**
   - **LRU (Least Recently Used)**
   - **Optimal Page Replacement**
 - Visualize page faults and memory frame updates step-by-step.
@@ -15,7 +16,7 @@ This repository contains the `page-replacement` R package, which simulates page 
 To install the package, use the `.tar.gz` file provided in this repository. Run the following command in R:
 
 ```
-install.packages("https://github.com/vignesh-naik-720/page-replacement/raw/main/PageReplacement_1.00.tar.gz", repos = NULL, type = "source")
+install.packages("https://github.com/vignesh-naik-720/page-replacement/raw/main/PageReplacement_1.0.0.tar.gz", repos = NULL, type = "source")
 ```
 ```
 library(page-replacement)
