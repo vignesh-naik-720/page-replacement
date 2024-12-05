@@ -1,6 +1,6 @@
 Package: PageReplacement
 Title: Page Replacement
-Description: This package helps in simulating page replacement algorithms, used in OS
+Description: Implements algorithms for page replacement in operating systems, such as FIFO, LRU, and Optimal. The package is designed for simulation and educational purposes.
 Version: 1.0.0
 Authors@R: person("Vignesh", "Naik", email = "720co.main@gmail.com", role = c("aut", "cre", "cph"))
 License: MIT + file LICENSE
