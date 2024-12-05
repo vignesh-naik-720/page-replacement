@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/articles/special-files.html
 
 library(testthat)
-library(disc-scheduling)
+library(PageReplacement)
 
-test_check("disc-scheduling")
+test_check("PageReplacement")
